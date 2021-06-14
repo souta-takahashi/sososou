@@ -80,7 +80,7 @@ p{
   background:#0090aa;
 }
 #home{
-  background-image: url(../image/apex-wraith.png);
+  background-image: url(https://souta-takahashi.github.io/sososou/apex-wraith.png);
   background-color: #9d8d9f;
   background-blend-mode: hard-light;
   min-height: 100vh;
@@ -93,7 +93,7 @@ p{
 ---------------------------------------------------
 */
 #intro{
-  background-image: url(../image/apex-octane.jpg);
+  background-image: url(https://souta-takahashi.github.io/sososou/apex-octane.jpg);
   /* background-color: #fff; */
   /* background-blend-mode: hard-light; */
   height: 270px;
@@ -205,7 +205,7 @@ aside{
 ---------------------------------------------------
 */
 #contact{
-  background-image: url(../image/apex-wattson.png);
+  background-image: url(https://souta-takahashi.github.io/sososou/apex-wattson.png);
   min-height: 75vh;
 }
 /*店舗情報・地図*/
